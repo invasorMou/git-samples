@@ -4,9 +4,5 @@ def print(arg)
 end
 
 
+# new changes
 
-var is_admin = true
-
-var colors = ['red', 'blue', 'yellow']
-
-var contact_list = []
