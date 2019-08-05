@@ -4,6 +4,7 @@ def print(arg)
 end
 
 
+
 var is_admin = true
 
 var colors = ['red', 'blue', 'yellow']
