@@ -4,3 +4,5 @@ def print(arg)
 end
 
 var is_admin = true
+
+var ids = [1,2,3,4,5]
